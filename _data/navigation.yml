@@ -10,6 +10,12 @@
 main:
   - title: "People"
     url: "/people/"
+    children:
+      - title: "Dr. Barney H. Miao"
+        url: "/people/barney-miao/"
+
+      - title: "Alumni"
+        url: "/people/alumni/"
     
   - title: "Publications"
     url: /publications/
