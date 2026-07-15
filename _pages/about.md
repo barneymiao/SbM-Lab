@@ -27,21 +27,24 @@ The construction industry is responsible for a significant portion of global car
 
 Our research focuses on five interconnected areas:
 
-🌱 Nature-Inspired Building Materials
+### **1. 🌳 Nature-Inspired Building Materials**
 
 We develop bio-based and waste-derived construction materials that replace conventional cement-based systems while maintaining structural performance. By leveraging renewable biopolymers such as lignin, we create cement-free composites with applications ranging from sustainable building components to structural infrastructure.
 
-♻️ Sustainable Manufacturing and Life-Cycle Design
+### **2. 🧮 Sustainable Manufacturing and Life-Cycle Design**
 
 We apply life-cycle assessment (LCA) and data-driven optimization to identify low-carbon manufacturing pathways, reduce environmental impacts, and guide the development of sustainable construction technologies.
 
-🔄 Circular Construction Systems
+### **3. ♻️ Circular Construction Systems**
+
 We investigate recycling, reuse, and material recovery strategies to establish closed-loop construction systems where materials can be continuously repurposed rather than discarded.
 
-🤖 AI-Enabled Sensing and Smart Manufacturing
+### **4. 🤖 AI-Enabled Sensing and Smart Manufacturing**
+
 We integrate sensors, machine learning, and artificial intelligence to create intelligent materials capable of monitoring their manufacturing processes, detecting defects, and predicting mechanical performance throughout their service life.
 
-🔬 Multiscale Characterization and Predictive Modeling
+### **5. 🔬 Multiscale Characterization and Predictive Modeling**
+
 We combine advanced characterization techniques, including microscopy and micro-computed tomography, with computational modeling to uncover structure–property relationships and enable predictive design of next-generation materials.
 
 A major research direction of the SbM Lab is the development of Engineered Biopolymer Composite (EBC), a recyclable and low-carbon construction material that uses bio-derived polymers to bind granular materials. Through optimized processing, circular design, and intelligent monitoring, EBC demonstrates the potential to achieve mechanical performance comparable to conventional concrete while significantly reducing environmental impacts.
