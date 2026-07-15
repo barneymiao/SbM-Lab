@@ -1,11 +1,18 @@
 ---
 permalink: /
-title: "Smart Building Materials (SbM) Lab"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1>
+<span style="color:#2E7D32;">Smart</span>
+<span style="color:#D97706;">Building</span>
+<span style="color:#003B5C;">Materials</span>
+(SbM) Lab
+</h1>
 
 <img src="{{ '/images/SBM_Logo.png' | relative_url }}" 
      alt="Smart Building Materials Lab Logo" 
