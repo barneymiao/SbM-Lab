@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Smart Building Materials (SbM) Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -27,23 +27,23 @@ author:
   name             : "Barney H. Miao"
   position: "Assistant Professor"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. Barney H. Miao is an Assistant Professor in Civil Engineering at the University of Calgary. He received his PhD in Civil and Environmental Engineering from Stanford University in 2026 with a PhD minor in Computer Science."
+  bio              : "Dr. Barney H. Miao is an Assistant Professor in Civil Engineering at the University of Calgary. He received his PhD in Civil and Environmental Engineering from Stanford University in 2026 with a PhD minor in Computer Science. He earned an MS in Structural Engineering from Stanford University in 2023 and a BSc in Civil Engineering in 2021."
   location         : "Calgary, Alberta, Canada"
   employer         : "University of Calgary"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "barney.miao@ucalgary.ca" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=xPJ5gUMAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9299-6316"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/profile/Barney-Miao"
   scopus           : # URL
   zotero           : # URL
 
@@ -52,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/barney-miao/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
