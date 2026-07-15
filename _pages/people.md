@@ -20,10 +20,6 @@ author_profile: true
 
 <div style="flex:1;">
 
-**Dr. Barney H. Miao**  
-Assistant Professor  
-Department of Civil Engineering  
-University of Calgary  
 <h3 style="margin-top:0;">
 <strong>Dr. Barney H. Miao</strong>
 </h3>
