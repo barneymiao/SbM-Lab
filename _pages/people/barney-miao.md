@@ -8,7 +8,7 @@ author_profile: true
 
 <div style="width:250px;">
 
-<img src="{{ '/assets/images/barney_miao.jpg' | relative_url }}"
+<img src="{{ '/images/Profile_Picture.jpg' | relative_url }}"
      style="width:220px; border-radius:10px;">
 
 </div>
