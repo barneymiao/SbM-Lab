@@ -193,7 +193,7 @@ Work Experience
     <div class="exp-inst">University of Calgary</div>
     <div class="exp-dept">
       Department of Civil Engineering <br>
-      Advisor: [Prof. Qi Zhou and Prof. Saeid Saidi]
+      Advisor: Prof. Qi Zhou and Prof. Saeid Saidi
     </div>
   </li>
 
