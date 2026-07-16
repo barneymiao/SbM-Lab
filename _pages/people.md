@@ -69,6 +69,10 @@ The **<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#
 
 ## Alumni and Student Mentees
 
+<h3>University of Calgary</h3>
+
+**Coming soon**
+
 <h3>Stanford University</h3>
 
 <ul>
