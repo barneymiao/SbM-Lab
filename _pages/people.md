@@ -10,7 +10,7 @@ author_profile: false
 
 <div style="flex:0 0 250px;">
 
-<img src="{{ '/images/Profile_Picture.jpg' | relative_url }}"
+<img src="{{ '/images/Barney_Image_China.png' | relative_url }}"
      alt="Dr. Barney H. Miao"
      style="width:250px; border-radius:10px;">
 
