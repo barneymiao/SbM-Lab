@@ -27,6 +27,29 @@ Why Smart Building Materials (SbM)? The word **"Smart"** in SbM represents more 
 
 By combining sustainable materials with artificial intelligence, the SbM-Lab is advancing the next generation of construction materials through the integration of nature-inspired material design, artificial intelligence, sensing technologies, and circular manufacturing strategies. Our mission is to develop affordable, high-performance, and environmentally responsible materials that enable a transition toward a decarbonized and resilient built environment.
 
+<div style="display:flex; justify-content:space-around; text-align:center; flex-wrap:wrap; margin:40px 0;">
+
+<div>
+<h1 style="margin:0; color:#003B5C;">12+</h1>
+Publications
+</div>
+
+<div>
+<h1 style="margin:0; color:#003B5C;">5</h1>
+Research Themes
+</div>
+
+<div>
+<h1 style="margin:0; color:#003B5C;">10+</h1>
+Collaborators
+</div>
+
+<div>
+<h1 style="margin:0; color:#003B5C;">4</h1>
+Countries
+</div>
+
+</div>
 ### **Overview of SbM-Lab**
 
 The construction industry is responsible for a significant portion of global carbon emissions, resource consumption, and material waste. To address these challenges, our research develops Smart Circular Building Materials (SCBM)—a closed-loop framework that integrates material innovation, lifecycle assessment, intelligent monitoring, and circularity to transform how construction materials are designed, manufactured, and reused.
