@@ -21,7 +21,10 @@ redirect_from:
 
 **Welcome to our lab website!!** 👋😊
 
-Welcome to the **Smart Building Materials (SbM) Lab** at the University of Calgary, led by Dr. Barney Haoyun Miao. Founded in **July 2026**, our research group explores innovative approaches to creating sustainable, intelligent, and resilient materials that will shape the future of the built environment.
+Welcome to the **<span style="color:#2E7D32; font-weight:700;">Smart</span>
+<span style="color:#D97706; font-weight:700;">Building</span>
+<span style="color:#003B5C; font-weight:700;">Materials</span>
+(<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>) Lab** at the University of Calgary, led by Dr. Barney Haoyun Miao. Founded in **July 2026**, our research group explores innovative approaches to creating sustainable, intelligent, and resilient materials that will shape the future of the built environment.
 
 Why Smart Building Materials (SbM)? The word **"Smart"** in SbM represents more than just digital technology. It reflects our vision for the future of construction: materials that are **smart by design, smart by manufacturing, and smart throughout their lifetime**. We develop **smart materials** by creating affordable, low-carbon alternatives to conventional construction materials. We enable **smart manufacturing** by integrating AI and non-destructive sensing to monitor and optimize material production. Finally, we support **smart infrastructure** by using data-driven approaches to predict performance and improve the resilience of built systems.
 
