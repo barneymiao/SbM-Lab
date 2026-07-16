@@ -24,7 +24,7 @@ redirect_from:
 Welcome to the **<span style="color:#2E7D32; font-weight:700;">Smart</span>
 <span style="color:#D97706; font-weight:700;">Building</span>
 <span style="color:#003B5C; font-weight:700;">Materials</span>
-(<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>) Lab** at the University of Calgary, led by Dr. Barney Haoyun Miao. Founded in **July 2026**, our research group explores innovative approaches to creating sustainable, intelligent, and resilient materials that will shape the future of the built environment.
+(<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>) Lab** at the University of Calgary, led by Dr. Barney Haoyun Miao. Founded in **August 2026**, our research group explores innovative approaches to creating sustainable, intelligent, and resilient materials that will shape the future of the built environment.
 
 Why **<span style="color:#2E7D32; font-weight:700;">Smart</span>
 <span style="color:#D97706; font-weight:700;">Building</span>
