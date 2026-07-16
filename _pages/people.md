@@ -160,6 +160,6 @@ The **<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#
   <li>
     <strong>Yinjian Li</strong> (2022–2024)<br>
     MS Graduate Research Mentee, Stanford University
-  </li>Currently:</em> PhD Student, Michigan State University
+  </li>
 </ul>
 </ul>
