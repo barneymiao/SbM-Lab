@@ -70,16 +70,95 @@ The **<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#
 ## Alumni and Student Mentees
 
 <ul>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>CBob</li>
-  <li>Yinjian Li - MS Graduate Research Mentee - Stanford University - Currently PhD student at Michigan State University</li>
+<ul>
+  <li>
+    <strong>Seoyoung Oh</strong> (2026–Present)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Brian Kim</strong> (2026–Present)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Steven Song</strong> (2025–Present)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Muran Yu</strong> (2025–Present)<br>
+    PhD Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Silvia Josefina Lombardo</strong> (2025–2026)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Viaronic Ishmale Snow-Hill</strong> (2025–2026)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Eunice Jung</strong> (2025–2026)<br>
+    PhD Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Keith Sutton</strong> (2025–Present)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Daria Fontani</strong> (2024–Present)<br>
+    PhD Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Farah Shahbaz</strong> (2024–Present)<br>
+    PhD Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Ava DeConcini</strong> (2024–Present)<br>
+    Undergraduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Darius Bradford Javan</strong> (2023–2025)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Daniel Woo</strong> (2023–2025)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Joshua Lin</strong> (2023–2024)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Chween An Beh</strong> (2023)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Kimberly Wong</strong> (2022–2023)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Peter Hariyanto</strong> (2022–2023)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>
+
+  <li>
+    <strong>Yinjian Li</strong> (2022–2024)<br>
+    MS Graduate Research Mentee, Stanford University
+  </li>Currently:</em> PhD Student, Michigan State University
+</ul>
 </ul>
