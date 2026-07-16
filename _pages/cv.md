@@ -10,9 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+<p>For my full CV, please take a look through the links below.</p>
+
 <div class="cv-download-links" style="margin-bottom: 30px;">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" style="background-color: #003B5C; border-color: #003B5C;">Download CV as PDF</a>
-  <a href="{{ base_path }}/cv/" class="btn btn--inverse">View Markdown CV</a>
 </div>
 
 <style>
