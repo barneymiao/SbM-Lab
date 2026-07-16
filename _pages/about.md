@@ -31,26 +31,35 @@ By combining sustainable materials with artificial intelligence, the SbM-Lab is 
 
 ## 📊 SbM Lab at a Glance
 
-<div style="display:flex; justify-content:space-around; text-align:center; flex-wrap:wrap; margin:40px 0;">
+<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; margin:40px 0;">
 
-  <div style="min-width:180px;">
+  <!-- Total Publications -->
+  <div style="text-align:center; padding:0 40px;">
     <h1 style="margin:0; color:#003B5C;">16+</h1>
-    <strong>Publications</strong>
+    <strong>Total Publications</strong>
   </div>
 
-  <div style="min-width:180px;">
-    <h1 style="margin:0; color:#003B5C;">12+</h1>
-    <strong>Journal Papers</strong>
-  </div>
+  <!-- Vertical Divider -->
+  <div style="width:2px; height:90px; background:#d3d3d3; margin:0 25px;"></div>
 
-  <div style="min-width:180px;">
-    <h1 style="margin:0; color:#003B5C;">4+</h1>
-    <strong>Conference Papers</strong>
-  </div>
+  <!-- Breakdown -->
+  <div style="display:flex; gap:50px; flex-wrap:wrap; justify-content:center;">
 
-  <div style="min-width:180px;">
-    <h1 style="margin:0; color:#003B5C;">1</h1>
-    <strong>Patent</strong>
+    <div style="text-align:center;">
+      <h2 style="margin:0; color:#003B5C;">12+</h2>
+      Journal Papers
+    </div>
+
+    <div style="text-align:center;">
+      <h2 style="margin:0; color:#003B5C;">4+</h2>
+      Conference Papers
+    </div>
+
+    <div style="text-align:center;">
+      <h2 style="margin:0; color:#003B5C;">1</h2>
+      Patent
+    </div>
+
   </div>
 
 </div>
