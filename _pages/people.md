@@ -69,7 +69,8 @@ The **<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#
 
 ## Alumni and Student Mentees
 
-<ul>
+<h3>Stanford University</h3>
+
 <ul>
   <li>
     <strong>Seoyoung Oh</strong> (2026–Present)<br>
