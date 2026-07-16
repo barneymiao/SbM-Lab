@@ -15,7 +15,7 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
     
   - title: "Talks"
     url: /talks/    
@@ -23,7 +23,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Blog Posts"
+  - title: "News"
     url: /year-archive/
     
   - title: "CV"
