@@ -27,37 +27,77 @@ Why Smart Building Materials (SbM)? The word **"Smart"** in SbM represents more 
 
 By combining sustainable materials with artificial intelligence, the SbM-Lab is advancing the next generation of construction materials through the integration of nature-inspired material design, artificial intelligence, sensing technologies, and circular manufacturing strategies. Our mission is to develop affordable, high-performance, and environmentally responsible materials that enable a transition toward a decarbonized and resilient built environment.
 
+---
+
+## 📊 SbM Lab at a Glance
+
 <div style="display:flex; justify-content:space-around; text-align:center; flex-wrap:wrap; margin:40px 0;">
 
-<div>
-<h1 style="margin:0; color:#003B5C;">16+</h1>
-Journal Publications
+  <div style="min-width:180px;">
+    <h1 style="margin:0; color:#003B5C;">16+</h1>
+    <strong>Publications</strong>
+  </div>
+
+  <div style="min-width:180px;">
+    <h1 style="margin:0; color:#003B5C;">12+</h1>
+    <strong>Journal Papers</strong>
+  </div>
+
+  <div style="min-width:180px;">
+    <h1 style="margin:0; color:#003B5C;">4+</h1>
+    <strong>Conference Papers</strong>
+  </div>
+
+  <div style="min-width:180px;">
+    <h1 style="margin:0; color:#003B5C;">1</h1>
+    <strong>Patent</strong>
+  </div>
+
 </div>
 
-<div>
-<h1 style="margin:0; color:#003B5C;">5+</h1>
-Collaborators
+---
+
+## 🤝 Collaborating Institutions
+
+<div style="display:flex; justify-content:center; align-items:center; gap:45px; flex-wrap:wrap; margin:30px 0;">
+
+  <img src="{{ '/assets/images/logos/stanford.png' | relative_url }}" height="60" alt="Stanford University">
+
+  <img src="{{ '/assets/images/logos/ucalgary.png' | relative_url }}" height="60" alt="University of Calgary">
+
+  <img src="{{ '/assets/images/logos/nasa.png' | relative_url }}" height="60" alt="NASA">
+
+  <img src="{{ '/assets/images/logos/nist.png' | relative_url }}" height="60" alt="NIST">
+
+  <img src="{{ '/assets/images/logos/uiuc.png' | relative_url }}" height="60" alt="University of Illinois Urbana-Champaign">
+
 </div>
 
-<div>
-<h1 style="margin:0; color:#003B5C;">4</h1>
-Countries
-</div>
-</div>
+---
 
-<h2 style="text-align:center;">Collaborators</h2>
+## 🌍 Countries
 
-<div style="display:flex; justify-content:center; align-items:center; gap:40px; flex-wrap:wrap; margin:30px 0;">
+<div style="display:flex; justify-content:center; gap:60px; flex-wrap:wrap; text-align:center; margin:30px 0;">
 
-<img src="{{ '/assets/images/logos/stanford.png' | relative_url }}" height="55">
+  <div>
+    <div style="font-size:48px;">🇨🇦</div>
+    <strong>Canada</strong>
+  </div>
 
-<img src="{{ '/assets/images/logos/ucalgary.png' | relative_url }}" height="55">
+  <div>
+    <div style="font-size:48px;">🇺🇸</div>
+    <strong>United States</strong>
+  </div>
 
-<img src="{{ '/assets/images/logos/nasa.png' | relative_url }}" height="55">
+  <div>
+    <div style="font-size:48px;">🇧🇩</div>
+    <strong>Bangladesh</strong>
+  </div>
 
-<img src="{{ '/assets/images/logos/nist.png' | relative_url }}" height="55">
-
-<img src="{{ '/assets/images/logos/uiuc.png' | relative_url }}" height="55">
+  <div>
+    <div style="font-size:48px;">🇯🇵</div>
+    <strong>Japan</strong>
+  </div>
 
 </div>
 
