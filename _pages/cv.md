@@ -266,7 +266,7 @@ Work Experience
   }
 </style>
 
-<div class="awards-subheading">Awards & Fellowships</div>
+<div class="awards-subheading">Awards</div>
 <ul class="awards-list">
 
   <li class="award-item trophy">
