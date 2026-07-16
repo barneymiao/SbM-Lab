@@ -30,17 +30,12 @@ By combining sustainable materials with artificial intelligence, the SbM-Lab is 
 <div style="display:flex; justify-content:space-around; text-align:center; flex-wrap:wrap; margin:40px 0;">
 
 <div>
-<h1 style="margin:0; color:#003B5C;">12+</h1>
-Publications
+<h1 style="margin:0; color:#003B5C;">16+</h1>
+Journal Publications
 </div>
 
 <div>
-<h1 style="margin:0; color:#003B5C;">5</h1>
-Research Themes
-</div>
-
-<div>
-<h1 style="margin:0; color:#003B5C;">10+</h1>
+<h1 style="margin:0; color:#003B5C;">5+</h1>
 Collaborators
 </div>
 
@@ -48,8 +43,27 @@ Collaborators
 <h1 style="margin:0; color:#003B5C;">4</h1>
 Countries
 </div>
+</div>
+
+<h2 style="text-align:center;">Collaborators</h2>
+
+<div style="display:flex; justify-content:center; align-items:center; gap:40px; flex-wrap:wrap; margin:30px 0;">
+
+<img src="{{ '/assets/images/logos/stanford.png' | relative_url }}" height="55">
+
+<img src="{{ '/assets/images/logos/ucalgary.png' | relative_url }}" height="55">
+
+<img src="{{ '/assets/images/logos/nasa.png' | relative_url }}" height="55">
+
+<img src="{{ '/assets/images/logos/nist.png' | relative_url }}" height="55">
+
+<img src="{{ '/assets/images/logos/uiuc.png' | relative_url }}" height="55">
 
 </div>
+
+- **July 2026** – Smart Building Materials (SbM) Lab founded at the University of Calgary.
+
+  
 ### **Overview of SbM-Lab**
 
 The construction industry is responsible for a significant portion of global carbon emissions, resource consumption, and material waste. To address these challenges, our research develops Smart Circular Building Materials (SCBM)—a closed-loop framework that integrates material innovation, lifecycle assessment, intelligent monitoring, and circularity to transform how construction materials are designed, manufactured, and reused.
