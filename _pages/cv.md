@@ -116,7 +116,7 @@ Work Experience
     padding-left: 25px;
   }
 
-  /* Timeline Dot with Pulse Effect for Current Role */
+  /* Timeline Dot */
   .experience-timeline-item::before {
     content: '';
     position: absolute;
@@ -170,35 +170,85 @@ Work Experience
     <div class="exp-dept">Department of Civil Engineering</div>
   </li>
 
+  <li class="experience-timeline-item">
+    <div class="exp-date">2021 – 2026</div>
+    <div class="exp-title">Graduate Student Researcher</div>
+    <div class="exp-inst">Stanford University</div>
+    <div class="exp-dept">
+      Department of Civil and Environmental Engineering <br>
+      Advisor: Michael D. Lepech
+    </div>
+  </li>
+
+  <li class="experience-timeline-item">
+    <div class="exp-date">2020 – 2021</div>
+    <div class="exp-title">Undergraduate Student Researcher</div>
+    <div class="exp-inst">University of Calgary</div>
+    <div class="exp-dept">
+      Department of Civil Engineering <br>
+      Advisor: [Advisor Name]
+    </div>
+  </li>
+
 </ul>
   
-Skills
+Service & Leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<style>
+  .service-category {
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  .service-title {
+    font-weight: 600;
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 4px;
+  }
+
+  .service-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  .service-item {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 8px;
+    font-size: 1.0em;
+    color: #444;
+  }
+
+  /* Custom clean bullet to match the blue accents */
+  .service-item::before {
+    content: "•";
+    color: #003B5C;
+    font-weight: bold;
+    font-size: 1.2em;
+    position: absolute;
+    left: 3px;
+    top: -2px;
+  }
+
+  .if-badge {
+    font-weight: 600;
+    color: #003B5C;
+    font-size: 0.9em;
+  }
+</style>
+
+<div class="service-category">
+  <div class="service-title">Journal Peer Review</div>
+  <ul class="service-list">
+    <li class="service-item"><em>Cleaner Materials</em> <span class="if-badge">[IF: 9.0]</span></li>
+    <li class="service-item"><em>Construction Innovation, Process, Management</em> <span class="if-badge">[IF: 3.9]</span></li>
+    <li class="service-item"><em>Clean Technologies and Environmental Policy</em> <span class="if-badge">[IF: 4.5]</span></li>
+    <li class="service-item"><em>Scientific Reports</em> <span class="if-badge">[IF: 3.9]</span></li>
+    <li class="service-item"><em>Discovery Sustainability</em> <span class="if-badge">[IF: 3.6]</span></li>
+  </ul>
+</div>
