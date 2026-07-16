@@ -37,8 +37,36 @@ By combining sustainable materials with artificial intelligence, the **<span sty
 <img src="{{ '/images/SBM_Collab_Overview.png' | relative_url }}" 
      alt="SBM_Collab_Overview" 
      style="display:block; margin:0 auto; width:1200px;">
+     
 <br>
-  
+<!-- Past Collaborations -->
+<div style="margin-top:40px;">
+
+  <h2 style="text-align:center; margin:0; color:#003B5C; font-size:2em; font-weight:700;">
+    Past Collaborations
+  </h2>
+
+  <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; margin-top:25px;">
+
+    <!-- Shell -->
+    <div style="text-align:center; padding:0 50px;">
+      <h2 style="margin:0; color:#2E7D32;">Shell</h2>
+      Industry Partner
+    </div>
+
+    <!-- Vertical Divider -->
+    <div style="width:2px; height:70px; background:#d3d3d3; margin:0 25px;"></div>
+
+    <!-- NIST -->
+    <div style="text-align:center; padding:0 50px;">
+      <h2 style="margin:0; color:#003B5C;">NIST</h2>
+      National Institute of Standards and Technology
+    </div>
+
+  </div>
+
+</div>
+
 ### **Overview of <span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>-Lab**
 
 The construction industry is responsible for a significant portion of global carbon emissions, resource consumption, and material waste. To address these challenges, our research develops Smart Circular Building Materials (SCBM)—a closed-loop framework that integrates material innovation, lifecycle assessment, intelligent monitoring, and circularity to transform how construction materials are designed, manufactured, and reused.
