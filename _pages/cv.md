@@ -172,7 +172,7 @@ Work Experience
 
   <li class="experience-timeline-item">
     <div class="exp-date">Aug 2026 – Present</div>
-    <div class="exp-title">Assistant Professor</div>
+    <div class="exp-title">Tenure-Track Assistant Professor</div>
     <div class="exp-inst">University of Calgary</div>
     <div class="exp-dept">Department of Civil Engineering</div>
   </li>
@@ -183,7 +183,7 @@ Work Experience
     <div class="exp-inst">Stanford University</div>
     <div class="exp-dept">
       Department of Civil and Environmental Engineering <br>
-      Advisor: Michael D. Lepech
+      Advisor: Prof. Michael D. Lepech (2023-2026), Prof. Hae Young Noh (2021-2022), and Prof. Jack Baker (2022) 
     </div>
   </li>
 
@@ -193,7 +193,7 @@ Work Experience
     <div class="exp-inst">University of Calgary</div>
     <div class="exp-dept">
       Department of Civil Engineering <br>
-      Advisor: [Advisor Name]
+      Advisor: [Prof. Qi Zhou and Prof. Saeid Saidi]
     </div>
   </li>
 
