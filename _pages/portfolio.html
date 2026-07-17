@@ -88,7 +88,19 @@ author_profile: true
 .project-title-link:hover .read-more-btn {
   text-decoration: underline;
 }
-  
+
+  /* Style for Collaboration Cards */
+  .collab-block {
+    background-color: #fdfdfd;
+    border-left: 5px solid #64748b; /* Slate gray accent for collaborative work */
+    border-radius: 4px;
+    padding: 25px;
+    margin-top: 40px;
+    margin-bottom: 35px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    border: 1px solid #e2e8f0;
+    border-left-width: 5px;
+  }
 </style>
 
 ### **Overview of <span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>-Lab**
@@ -239,12 +251,35 @@ Our research focuses on five interconnected areas:
   </div>
 </div>
 
----
+<!-- COLLABORATIONS & OTHER PROJECTS -->
+<div class="collab-block">
+  <div class="theme-title" style="color: #64748b; border-bottom-color: #cbd5e1;">🤝 Collaborations & Other Projects</div>
+  <p class="theme-desc">
+    In addition to our core lab themes, we actively collaborate with international academic institutions, industry partners, and cross-disciplinary research groups to accelerate the development of sustainable infrastructure.
+  </p>
+  
+  <div class="project-list">
+    
+    <!-- COLLAB PROJECT 1 -->
+    <div class="project-card" style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; background-color: #fafafa;">
+      <!-- Project Image/Logo Placeholder (Left) -->
+      <div style="flex: 1 1 150px; max-width: 200px; min-width: 150px; background-color: #f1f5f9; border-radius: 4px; display: flex; align-items: center; justify-content: center; min-height: 120px; border: 1px dashed #cbd5e1;">
+        <span style="color: #94a3b8; font-size: 0.85em; text-align: center; padding: 10px;">Partner Logo / Project Image</span>
+      </div>
+      
+      <!-- Project Text (Right) -->
+      <div style="flex: 2 1 350px;">
+        <div class="project-title" style="margin-top: 0; margin-bottom: 8px; font-weight: 700; color: #475569; font-size: 1.1em;">
+          Interdisciplinary Circularity Assessment
+        </div>
+        <p class="project-body" style="margin-bottom: 10px;">
+          A joint initiative evaluating the system-wide supply chain mechanics of bio-based materials. This project bridges experimental materials engineering with global logistics and environmental policy frameworks.
+        </p>
+        <p class="project-body" style="font-size: 0.9em; color: #64748b; font-style: italic;">
+          <strong>Collaborators:</strong> Department of Chemical Engineering / Industrial Ecology Group
+        </p>
+      </div>
+    </div>
 
-A major research direction of the **<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>-Lab** is the development of Engineered Biopolymer Composite (EBC), a recyclable and low-carbon construction material that uses bio-derived polymers to bind granular materials. Through optimized processing, circular design, and intelligent monitoring, EBC demonstrates the potential to achieve mechanical performance comparable to conventional concrete while significantly reducing environmental impacts.
-
-By bridging materials science, civil engineering, sustainability, and artificial intelligence, the **<span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>-Lab** aims to create a future where construction materials are not only stronger and more sustainable, but also smart, circular, and adaptive components of tomorrow's infrastructure.
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  </div>
+</div>
