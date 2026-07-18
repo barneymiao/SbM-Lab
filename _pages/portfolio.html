@@ -147,6 +147,29 @@ author_profile: true
     color: #0c4a6e;
     border-color: #7dd3fc;
   }
+
+  /* Style for GitHub Repository button (Light Slate/Purple) */
+  .paper-github-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #f5f3ff; /* Light purple tint */
+    color: #6d28d9; /* Deep purple text */
+    border: 1px solid #ddd6fe;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 0.85em;
+    font-weight: 600;
+    text-decoration: none !important;
+    margin-top: 12px;
+    transition: all 0.15s ease;
+  }
+
+  .paper-github-btn:hover {
+    background-color: #ede9fe;
+    color: #5b21b6;
+    border-color: #c4b5fd;
+  }
 </style>
 
 ###Overview of <span style="color:#2E7D32; font-weight:700;">S</span><span style="color:#D97706; font-weight:700;">b</span><span style="color:#003B5C; font-weight:700;">M</span>-Lab
@@ -201,7 +224,7 @@ By shifting away from traditional, linear "take-make-waste" materials, the SCBM 
       </div>
     </div>
 
-<!-- PROJECT 2 (Clickable Title Linking to portfolio-1 + EBC Abstract Info) -->
+<!-- PROJECT 2 (Clickable Title Linking to portfolio-1 + EBC Abstract Info + GitHub Link) -->
     <div class="project-card" style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
       <!-- Project Image (Left - Reusing Lignin Image for now) -->
       <div style="flex: 1 1 200px; max-width: 250px; min-width: 180px;">
@@ -226,6 +249,14 @@ By shifting away from traditional, linear "take-make-waste" materials, the SCBM 
         <p class="project-body" style="margin-bottom: 0;">
           Cradle-to-gate life cycle assessments indicate a global average carbon sequestration benefit of -231.2 kg CO₂/m³. Scaling this technology using global lignin supplies presents a highly viable, nature-inspired pathway to decarbonize global infrastructure.
         </p>
+
+        <!-- Document Links -->
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <!-- Link to GitHub Repo -->
+          <a href="https://github.com/your-github-username/your-repo-name" class="paper-github-btn" target="_blank">
+            💻 View GitHub Repository
+          </a>
+        </div>
       </div>
     </div>
 
