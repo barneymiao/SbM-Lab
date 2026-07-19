@@ -948,6 +948,12 @@ author_profile: true
       
       <!-- Project Image Column (Left Column - Multi-Image Stack) -->
       <div style="flex: 1 1 320px; max-width: 350px; min-width: 180px; display: flex; flex-direction: column; gap: 15px;">
+
+        <!-- Image 2: Sensor/AI Setup (Update filename as needed) -->
+        <div style="width: 100%;">
+          <img src="{{ '/images/Test_layout.png' | relative_url }}" alt="Vibration sensing system configuration" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
+          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">Non-destructive vibration-based sensing system test setup</div>
+        </div>
         
         <!-- Image 1: Impact Response GIF -->
         <div style="width: 100%;">
@@ -957,15 +963,10 @@ author_profile: true
 
         <!-- Image 2: Sensor/AI Setup -->
         <div style="width: 100%;">
-          <img src="{{ '/images/ai_sensing_setup.png' | relative_url }}" alt="Vibration sensing system configuration" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
-          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">Non-destructive vibration-based sensing system configuration.</div>
+          <img src="{{ '/images/TSNE_Visualization.png' | relative_url }}" alt="AI defect detection framework" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
+          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">Using AI-driven methods, we can detect and characterize defects in composites while they are still wet.</div>
         </div>
 
-        <!-- Image 3: Feature Extraction / Model Performance -->
-        <div style="width: 100%;">
-          <img src="{{ '/images/ai_model_results.png' | relative_url }}" alt="AI defect detection framework" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
-          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">Physics-based feature engineering and early defect detection performance.</div>
-        </div>
       </div>
       
       <!-- Project Text Column (Right Column) -->
@@ -1031,26 +1032,31 @@ author_profile: true
     <!-- PROJECT 1: MULTISCALE EBC CHARACTERIZATION (Combined CT/SEM) -->
     <div class="project-card" style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
       
-      <!-- Project Image Column (Left Column - Multi-Image Stack) -->
+      <!-- Project Image Column (Left Column - 4-Image Vertical Stack) -->
       <div style="flex: 1 1 320px; max-width: 350px; min-width: 180px; display: flex; flex-direction: column; gap: 15px;">
         
-        <!-- Replaced Image 1: Side-by-Side Row for EBC_Animation2.gif and EBC_Animation3.gif -->
+        <!-- Image 1: EBC Animation 2 -->
         <div style="width: 100%;">
-          <div style="display: flex; gap: 8px; justify-content: space-between; align-items: center; width: 100%;">
-            <div style="flex: 1;">
-              <img src="{{ '/images/EBC_Animation2.gif' | relative_url }}" alt="Engineered Biopolymer Composite 3D reconstruction animation sequence A" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);" />
-            </div>
-            <div style="flex: 1;">
-              <img src="{{ '/images/EBC_Animation3.gif' | relative_url }}" alt="Engineered Biopolymer Composite 3D reconstruction animation sequence B" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);" />
-            </div>
-          </div>
-          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2; margin-top: 6px;">Deep-learning volumetric segmentation and spatial probability functions from 3D Micro-CT scans.</div>
+          <img src="{{ '/images/EBC_Animation2.gif' | relative_url }}" alt="Engineered Biopolymer Composite 3D reconstruction animation sequence A" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
+          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">3D micro-CT reconstruction animation sequence tracking void topology.</div>
         </div>
 
-        <!-- Image 2: FEG-SEM and EDS Interfacial Boundary Imaging -->
+        <!-- Image 2: EBC Animation 3 -->
+        <div style="width: 100%;">
+          <img src="{{ '/images/EBC_Animation3.gif' | relative_url }}" alt="Engineered Biopolymer Composite 3D reconstruction animation sequence B" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
+          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">Volumetric phase distribution rendering isolating aggregate connectivity.</div>
+        </div>
+
+        <!-- Image 3: FEG-SEM and EDS Interfacial Boundary Imaging -->
         <div style="width: 100%;">
           <img src="{{ '/images/SEM_EDS_Microscopy.png' | relative_url }}" alt="FEG-SEM Interfacial Boundary Imaging" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
           <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">High-resolution desktop FEG-SEM imaging and EDS elemental analysis of diamond-knife polished interfaces.</div>
+        </div>
+
+        <!-- Image 4: Predictive Spatial Models -->
+        <div style="width: 100%;">
+          <img src="{{ '/images/EBC_Predictive_Modeling.png' | relative_url }}" alt="Predictive spatial correlation models" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 4px;" />
+          <div style="font-size: 0.75em; color: #64748b; text-align: center; font-style: italic; line-height: 1.2;">Wasserstein distance metrics and spatial statistics mapping compaction dependence.</div>
         </div>
       </div>
       
@@ -1073,65 +1079,4 @@ author_profile: true
     
   </div>
 </div>
-
-
-<!-- COLLABORATIONS & OTHER PROJECTS -->
-
-<div class="collab-block">
-
-  <div class="theme-title" style="color: #64748b; border-bottom-color: #cbd5e1;">🤝 Collaborations & Other Projects</div>
-
-  <p class="theme-desc">
-
-    In addition to our core lab themes, we actively collaborate with international academic institutions, industry partners, and cross-disciplinary research groups to accelerate the development of sustainable infrastructure.
-
-  </p>
-
-  
-
-  <div class="project-list">
-
-    <!-- COLLAB PROJECT 1 -->
-
-    <div class="project-card" style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; background-color: #fafafa;">
-
-      <!-- Project Image/Logo Placeholder (Left) -->
-
-      <div style="flex: 1 1 150px; max-width: 320px; min-width: 150px; background-color: #f1f5f9; border-radius: 4px; display: flex; align-items: center; justify-content: center; min-height: 120px; border: 1px dashed #cbd5e1;">
-
-        <span style="color: #94a3b8; font-size: 0.85em; text-align: center; padding: 10px;">Partner Logo / Project Image</span>
-
-      </div>
-
-      
-
-      <!-- Project Text (Right) -->
-
-      <div style="flex: 2 1 350px;">
-
-        <div class="project-title" style="margin-top: 0; margin-bottom: 8px; font-weight: 700; color: #475569; font-size: 1.1em;">
-
-          Interdisciplinary Circularity Assessment
-
-        </div>
-
-        <p class="project-body" style="margin-bottom: 10px;">
-
-          A joint initiative evaluating the system-wide supply chain mechanics of bio-based materials. This project bridges experimental materials engineering with global logistics and environmental policy frameworks.
-
-        </p>
-
-        <p class="project-body" style="font-size: 0.9em; color: #64748b; font-style: italic;">
-
-          <strong>Collaborators:</strong> Department of Chemical Engineering / Industrial Ecology Group
-
-        </p>
-
-      </div>
-
-    </div>
-
-  </div>
-
-</div> 
 
