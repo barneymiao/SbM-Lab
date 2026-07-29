@@ -13,7 +13,7 @@ redirect_from:
 <p>For my full CV, please take a look through the links below.</p>
 
 <div class="cv-download-links" style="margin-bottom: 30px;">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" style="background-color: #003B5C; border-color: #003B5C;">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/Barney_Miao_CV_AUG_2026.pdf" class="btn btn--primary" style="background-color: #003B5C; border-color: #003B5C;">Download CV [Aug 2026] as PDF</a>
 </div>
 
 <style>
@@ -142,7 +142,7 @@ Work Experience
     color: #003B5C;
     font-size: 1.05em;
     margin-bottom: 2px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.5px;
   }
 
@@ -171,7 +171,7 @@ Work Experience
 <ul class="experience-timeline">
 
   <li class="experience-timeline-item">
-    <div class="exp-date">Aug 2026 – Present</div>
+    <div class="exp-date">August 2026 – Present</div>
     <div class="exp-title">Assistant Professor</div>
     <div class="exp-inst">University of Calgary</div>
     <div class="exp-dept">Department of Civil Engineering</div>
@@ -441,7 +441,7 @@ Service & Leadership
 <div class="service-category">
   <div class="service-title">Journal Peer Review</div>
   <ul class="service-list">
-    <li class="service-item"><em>Cleaner Materials</em> <span class="if-badge">[IF: 12.7.0]</span></li>
+    <li class="service-item"><em>Cleaner Materials</em> <span class="if-badge">[IF: 12.7]</span></li>
     <li class="service-item"><em>Cleaner Environmental Systems</em> <span class="if-badge">[IF: 5.3]</span></li>
     <li class="service-item"><em>Construction Innovation, Process, Management</em> <span class="if-badge">[IF: 3.9]</span></li>
     <li class="service-item"><em>Clean Technologies and Environmental Policy</em> <span class="if-badge">[IF: 5.1]</span></li>
