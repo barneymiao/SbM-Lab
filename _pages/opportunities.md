@@ -29,6 +29,7 @@ author_profile: true
 
 <h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">How to Express Interest</h2>
 <p>To help streamline the review process and ensure your application stands out, please follow these steps before reaching out:</p>
+smartbmlab@gmail.com
 
 <div style="background-color: #fafafa; border: 1px solid #e0e0e0; padding: 20px; border-radius: 4px; margin-top: 15px;">
   <ol style="margin-bottom: 0; padding-left: 20px;">
