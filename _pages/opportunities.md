@@ -10,7 +10,7 @@ author_profile: true
 <div class="opportunities-header" style="background-color: #f4f7f9; border-left: 4px solid #003B5C; padding: 20px; margin-bottom: 30px; border-radius: 4px;">
   <h2 style="color: #003B5C; margin-top: 0; font-size: 1.5em;">🚀 Joining the Research Group</h2>
   <p style="margin-bottom: 0; font-size: 1.1em; color: #333;">
-    <strong>Status:</strong> Actively recruiting graduate students (M.Sc. & Ph.D.) for <strong>Winter 2027</strong> and <strong>Fall 2027</strong>.
+    <strong>Status[Aug 2026]:</strong> I am recruiting 1–2 MSc/PhD students to join the SbM Lab for <strong>Fall 2027</strong>. For domestic students, there may also be an opportunity to start as early as <strong>Winter 2027</strong>.
   </p>
 </div>
 
