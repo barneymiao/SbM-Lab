@@ -46,7 +46,6 @@ author_profile: true
     <li style="margin-bottom: 10px;">
       <strong>Prepare your documents:</strong> 
       <ul>
-        <li>A brief cover letter (1 page) explaining your research interests and why you want to join the group.</li>
         <li>Your CV.</li>
         <li>Unofficial transcripts.</li>
       </ul>
