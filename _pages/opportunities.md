@@ -26,7 +26,7 @@ author_profile: true
 
 <p><strong>General Qualifications & Preferences:</strong></p>
 <ul>
-  <li>Academic background in Civil & Environmental Engineering, Materials Science, Computer Science, <strong>Chemistry, Forestry</strong> (e.g., related to lignin modification), or related disciplines.</li>
+  <li>Academic background in Civil & Environmental Engineering, Materials Science, Computer Science, Chemistry, Forestry, or related disciplines.</li>
   <li>Minimum GPA of <strong>3.3 / 4.0</strong> (or equivalent).</li>
   <li>Proficiency in Python programming.</li>
   <li>Experience with <strong>laboratory experiments</strong>, <strong>material characterization</strong> (e.g., SEM, micro-CT, FTIR), or related field testing is considered a strong asset.</li>
@@ -44,7 +44,7 @@ author_profile: true
       <strong>Review our work:</strong> Take a look at our <a href="/publications/">Publications</a> to ensure your research interests align with our group's focus.
     </li>
     <li style="margin-bottom: 10px;">
-      <strong>Prepare your documents:</strong> Assemble a single PDF containing:
+      <strong>Prepare your documents:</strong> 
       <ul>
         <li>A brief cover letter (1 page) explaining your research interests and why you want to join the group.</li>
         <li>Your CV.</li>
@@ -52,7 +52,7 @@ author_profile: true
       </ul>
     </li>
     <li style="margin-bottom: 0;">
-      <strong>Submit your application:</strong> Complete our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMO2sSJtUYazDWNLRA_yRw_RSjrURt0FQ0nNGG_web1ZH7w/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Recruitment Interest Form</a> or email your PDF documents to <a href="mailto:smartbmlab@gmail.com">smartbmlab@gmail.com</a> with the subject line <code>[Prospective Student] - Your Name - Term (e.g., Fall 2027)</code>.
+      <strong>Submit your application:</strong> Complete our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMO2sSJtUYazDWNLRA_yRw_RSjrURt0FQ0nNGG_web1ZH7w/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Recruitment Interest Form</a> or email your PDF documents (as a single PDF) to <a href="mailto:smartbmlab@gmail.com">smartbmlab@gmail.com</a> with the subject line <code>[Prospective Student] - Your Name - Term (e.g., Fall 2027)</code>. Please also indicate what position you would like to apply for (e.g., MSc, PhD, etc.).
     </li>
   </ol>
 </div>
