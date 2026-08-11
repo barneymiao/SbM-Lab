@@ -52,7 +52,7 @@ author_profile: true
       </ul>
     </li>
     <li style="margin-bottom: 0;">
-      <strong>Submit your application:</strong> Complete our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMO2sSJtUYazDWNLRA_yRw_RSjrURt0FQ0nNGG_web1ZH7w/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Recruitment Interest Form</a> and email your PDF documents to <a href="mailto:smartbmlab@gmail.com">smartbmlab@gmail.com</a> with the subject line <code>[Prospective Student] - Your Name - Term (e.g., Fall 2027)</code>.
+      <strong>Submit your application:</strong> Complete our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMO2sSJtUYazDWNLRA_yRw_RSjrURt0FQ0nNGG_web1ZH7w/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Recruitment Interest Form</a> or email your PDF documents to <a href="mailto:smartbmlab@gmail.com">smartbmlab@gmail.com</a> with the subject line <code>[Prospective Student] - Your Name - Term (e.g., Fall 2027)</code>.
     </li>
   </ol>
 </div>
