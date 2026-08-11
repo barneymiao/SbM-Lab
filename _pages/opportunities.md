@@ -26,8 +26,10 @@ author_profile: true
 
 <p><strong>General Qualifications & Preferences:</strong></p>
 <ul>
-  <li>Experience or coursework relevant to any of the fields above (Civil Engineering, Materials Science, Computer Science, or related disciplines).</li>
+  <li>Academic background in Civil & Environmental Engineering, Materials Science, Computer Science, <strong>Chemistry, Forestry</strong> (e.g., related to lignin modification), or related disciplines.</li>
+  <li>Minimum GPA of <strong>3.3 / 4.0</strong> (or equivalent).</li>
   <li>Proficiency in Python programming.</li>
+  <li>Experience with <strong>laboratory experiments</strong>, <strong>material characterization</strong> (e.g., SEM, micro-CT, FTIR), or related field testing is considered a strong asset.</li>
   <li>For Ph.D. applicants, prior peer-reviewed publication experience is preferred.</li>
 </ul>
 
