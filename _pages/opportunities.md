@@ -14,15 +14,21 @@ author_profile: true
   </p>
 </div>
 
-<p>We are building an interdisciplinary team focused on sustainable construction materials, bio-based composites, and smart monitoring. If you are passionate about reducing the carbon footprint of the built environment and developing next-generation civil engineering technologies, we want to hear from you.</p>
+<p>We are building an interdisciplinary team focused on sustainable construction materials, bio-based composites, smart sensing, and artificial intelligence. If you are passionate about reducing the carbon footprint of the built environment and developing next-generation civil engineering technologies, we want to hear from you.</p>
 
-<h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Coming Soon: Open Positions</h2>
-<p>Detailed project descriptions and specific funding packages will be posted here shortly. We are primarily looking for students with backgrounds in:</p>
+<h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Research Areas & Qualifications</h2>
+<p>We are looking for students with background, experience, or strong interest in one or more of our core research pillars:</p>
+<ol>
+  <li><strong>Smart by Design:</strong> Low-carbon and bio-based materials</li>
+  <li><strong>Smart by Manufacturing:</strong> AI, sensing, and non-destructive testing (NDT)</li>
+  <li><strong>Smart throughout Lifetime:</strong> Life-cycle assessment (LCA) and infrastructure resilience</li>
+</ol>
+
+<p><strong>General Qualifications & Preferences:</strong></p>
 <ul>
-  <li>Civil & Environmental Engineering</li>
-  <li>Materials Science</li>
-  <li>Structural Engineering & Mechanics</li>
-  <li>Related disciplines with strong computational or experimental skills</li>
+  <li>Experience or coursework relevant to any of the fields above (Civil Engineering, Materials Science, Computer Science, or related disciplines).</li>
+  <li>Proficiency in Python programming.</li>
+  <li>For Ph.D. applicants, prior peer-reviewed publication experience is preferred.</li>
 </ul>
 
 ---
@@ -44,7 +50,7 @@ author_profile: true
       </ul>
     </li>
     <li style="margin-bottom: 0;">
-      <strong>Send an email:</strong> Email me [smartbmlab@gmail.com] with the subject line <code>[Prospective Student] - Your Name - Term (e.g., Fall 2027)</code>.
+      <strong>Submit your application:</strong> Complete our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMO2sSJtUYazDWNLRA_yRw_RSjrURt0FQ0nNGG_web1ZH7w/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Recruitment Interest Form</a> and email your PDF documents to <a href="mailto:smartbmlab@gmail.com">smartbmlab@gmail.com</a> with the subject line <code>[Prospective Student] - Your Name - Term (e.g., Fall 2027)</code>.
     </li>
   </ol>
 </div>
