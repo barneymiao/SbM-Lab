@@ -16,6 +16,23 @@ author_profile: true
 
 <p>We are building an interdisciplinary team focused on sustainable construction materials, bio-based composites, smart sensing, and artificial intelligence. If you are passionate about reducing the carbon footprint of the built environment and developing next-generation civil engineering technologies, we want to hear from you.</p>
 
+<h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Recruitment Announcement PDF</h2>
+<p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
+
+<div style="margin-bottom: 15px;">
+  <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #003B5C; color: #ffffff; padding: 10px 18px; border-radius: 4px; text-decoration: none; font-weight: bold; margin-bottom: 15px;">
+    📄 Download Recruitment Flyer (PDF)
+  </a>
+</div>
+
+<div style="width: 100%; height: 600px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
+  <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf" width="100%" height="100%" style="border: none;">
+    <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
+  </iframe>
+</div>
+
+---
+
 <h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Research Areas & Qualifications</h2>
 <p>We are looking for students with background, experience, or strong interest in one or more of our core research pillars:</p>
 <ol>
