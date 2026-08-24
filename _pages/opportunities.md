@@ -25,11 +25,6 @@ author_profile: true
     <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
   </iframe>
 </div>
-<div style="width: 100%; height: 600px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
-  <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf" width="100%" height="100%" style="border: none;">
-    <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
-  </iframe>
-</div>
 
 ---
 
