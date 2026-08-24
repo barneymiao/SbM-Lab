@@ -16,16 +16,6 @@ author_profile: true
 
 <p>We are building an interdisciplinary team focused on sustainable construction materials, bio-based composites, smart sensing, and artificial intelligence. If you are passionate about reducing the carbon footprint of the built environment and developing next-generation civil engineering technologies, we want to hear from you.</p>
 
-<h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Recruitment Announcement PDF</h2>
-<p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
-
-<!-- Fixed Height Approach (Recommended for single-page PDFs) -->
-<div style="width: 100%; height: 1150px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
-  <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026-2027.pdf" width="100%" height="100%" style="border: none;">
-    <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
-  </iframe>
-</div>
-
 ---
 
 <h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Research Areas & Qualifications</h2>
@@ -66,4 +56,15 @@ author_profile: true
       <strong>Submit your application:</strong> Complete our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMO2sSJtUYazDWNLRA_yRw_RSjrURt0FQ0nNGG_web1ZH7w/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Recruitment Interest Form</a> or email your PDF documents (as a single PDF) to <a href="mailto:smartbmlab@gmail.com">smartbmlab@gmail.com</a> with the subject line <code>[Prospective Student] - Your Name - Term (e.g., Fall 2027)</code>. Please also indicate what position you would like to apply for (e.g., MSc, PhD, etc.).
     </li>
   </ol>
+</div>
+
+---
+<h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Recruitment Announcement PDF</h2>
+<p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
+
+<!-- Fixed Height Approach (Recommended for single-page PDFs) -->
+<div style="width: 100%; height: 1150px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
+  <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026-2027.pdf" width="100%" height="100%" style="border: none;">
+    <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
+  </iframe>
 </div>
