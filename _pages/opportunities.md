@@ -19,12 +19,12 @@ author_profile: true
 <h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Recruitment Announcement PDF</h2>
 <p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
 
-<div style="margin-bottom: 15px;">
-  <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #003B5C; color: #ffffff; padding: 10px 18px; border-radius: 4px; text-decoration: none; font-weight: bold; margin-bottom: 15px;">
-    📄 Download Recruitment Flyer (PDF)
-  </a>
+<!-- Fixed Height Approach (Recommended for single-page PDFs) -->
+<div style="width: 100%; height: 1150px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
+  <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026-2027.pdf" width="100%" height="100%" style="border: none;">
+    <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
+  </iframe>
 </div>
-
 <div style="width: 100%; height: 600px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
   <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf" width="100%" height="100%" style="border: none;">
     <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
@@ -44,7 +44,7 @@ author_profile: true
 <p><strong>General Qualifications & Preferences:</strong></p>
 <ul>
   <li>Academic background in Civil & Environmental Engineering, Materials Science, Computer Science, Chemistry, Forestry, or related disciplines.</li>
-  <li>Minimum GPA of <strong>3.3 / 4.0</strong> (or equivalent).</li>
+  <li>Minimum GPA of <strong>3.5 / 4.0</strong> (or equivalent).</li>
   <li>Proficiency in Python programming.</li>
   <li>Experience with <strong>laboratory experiments</strong>, <strong>material characterization</strong> (e.g., SEM, micro-CT, FTIR), or related field testing is considered a strong asset.</li>
   <li>For Ph.D. applicants, prior peer-reviewed publication experience is preferred.</li>
