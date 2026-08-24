@@ -18,6 +18,17 @@ author_profile: true
 
 ---
 
+<h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Recruitment Announcement PDF</h2>
+<p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
+
+<!-- Fixed Height Approach (Recommended for single-page PDFs) -->
+<div style="width: 100%; height: 1150px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
+  <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026-2027.pdf" width="100%" height="100%" style="border: none;">
+    <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
+  </iframe>
+</div>
+
+---
 <h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Research Areas & Qualifications</h2>
 <p>We are looking for students with background, experience, or strong interest in one or more of our core research pillars:</p>
 <ol>
@@ -59,12 +70,3 @@ author_profile: true
 </div>
 
 ---
-<h2 style="color: #003B5C; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Recruitment Announcement PDF</h2>
-<p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
-
-<!-- Fixed Height Approach (Recommended for single-page PDFs) -->
-<div style="width: 100%; height: 1150px; border: 1px solid #ccc; margin-bottom: 30px; border-radius: 4px; overflow: hidden;">
-  <iframe src="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026-2027.pdf" width="100%" height="100%" style="border: none;">
-    <p>Your browser does not support PDF embedding. <a href="{{ base_path }}/files/SbM_Research_Lab_Recruitment_2026.pdf">Click here to download the PDF.</a></p>
-  </iframe>
-</div>
